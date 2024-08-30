@@ -1,2 +1,2 @@
-# IOT-UI
-The UI for IOT Application using Ruby on Rails.
+# Data Repo
+This repo contains data for different projects
