@@ -1,2 +1,2 @@
 # Data Repo
-This repo contains data for different projects
+This repo contains datasets for different projects
